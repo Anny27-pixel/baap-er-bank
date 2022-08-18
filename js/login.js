@@ -22,7 +22,7 @@ document.getElementById('btn-submit').addEventListener('click', function () {
         window.location.href = 'bank.html';
     }
     else {
-        console.log('Tui password vule gechos !! Toke ami teijjo sontan ghosona korlam.');
+        alert('Tui password vule gechos !! Toke ami teijjo sontan ghosona korlam.');
     }
 
 })
